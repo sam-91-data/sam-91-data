@@ -10,6 +10,8 @@ Professional Journey 🚀
 Derived data-driven decisions for clients in banking and automotive industry through advanced analytics. Extracted key diversity insights from large datasets using SQL, identifying representation gaps. Developed interactive dashboards in Tableau to visualize diversity metrics, making data more accessible. Analysed credit card transactions, analysed trend, reconciled customer behaviour, and worked with collaborative team on strategic analytics projects. 
 📊 Data Analyst @ E-Mech Solutions
 
+📚 Completed IBM certification in Data Science & AI
+
 Current Adventure 🌟 
 📚 Master of Science in Business Analytics @ Trine University, Michigan
 
